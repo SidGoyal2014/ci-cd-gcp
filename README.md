@@ -1,1 +1,1 @@
-# ci-cd-gcp
+# ci-cd-gcp-capstone-project
